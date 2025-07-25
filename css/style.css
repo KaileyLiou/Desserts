@@ -35,7 +35,7 @@ img {
     max-width: 400px;
     border: 3px #3EB489;
     margin-top: 0em;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
     margin-left: 2em;
     margin-right: 2em;
 }
@@ -59,8 +59,8 @@ p {
 }
 
 .title {
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
