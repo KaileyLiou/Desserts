@@ -10,6 +10,7 @@ header {
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
+    font-size: 40px;
 }
 
 main {
@@ -27,4 +28,33 @@ main {
 
 .rating span:hover {
     transform: scale(1.5);
+}
+
+img {
+    max-height: 300px;
+    max-width: 400px;
+    border: 3px #3EB489;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-size: 15px;
 }
